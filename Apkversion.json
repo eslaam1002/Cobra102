@@ -1,0 +1,8 @@
+{
+  "version_code": 2,
+  "version_name": "4.2.0",
+  "apk_url": "https://example.com/app-release.apk",
+  "update_title": "📢 تحديث جديد متاح!",
+  "update_message": "✅ تم إصلاح الأخطاء\n⚡ تحسين السرعة\n🛡️ تعزيز الأمان",
+  "update_size": "25 MB"
+}
